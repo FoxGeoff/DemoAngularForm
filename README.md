@@ -40,3 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ```
 ![Image of Bootstrap Card](/images/BootStrapCardForm.png)
 
+## Add JQuery and Pooper (because Bootstrap uses these)
+1. Run ```> npm install jquery ```
+1. Run ```> npm install popper ```
+
