@@ -31,3 +31,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. Run ```> ng new demo_angular_form ```
 1. Run ```> ng serve -o ```
 
+## Add Bootstrap
+1. Run```> npm install bootstrap```
+1. Add to styles.css 
+```
+/* You can add global styles to this file, and also import other style files */
+@import'~bootstrap/dist/css/bootstrap.css';
+```
+
