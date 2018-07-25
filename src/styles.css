@@ -2,10 +2,3 @@
 @import'~bootstrap/dist/css/bootstrap.css';
 /* @import '~bootstrap/scss/bootstrap-grid'; */
  
-li {
-    font-size: large;
-}
-
-div.panel-heading {
-   font-size: x-large; 
-}

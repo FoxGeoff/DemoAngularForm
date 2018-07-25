@@ -38,4 +38,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 /* You can add global styles to this file, and also import other style files */
 @import'~bootstrap/dist/css/bootstrap.css';
 ```
+![Image of Bootstrap Card](/images/BootStrapCardForm.png)
 
